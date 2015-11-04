@@ -7,6 +7,8 @@ alias sprints="cd /Users/Home/dev/TGA/SPRINTS"
 alias notes="cd /Users/Home/dev/TGA/NOTES"
 alias hpr='hub pull-request'
 alias blog='/Users/Home/dev/ACTIVE/fvntr.github.io'
+alias de="cd ~/Desktop"
+alias ds="cd ~/Documents"
 
 alias cd..='cd ../'                         # Go back 1 directory level 
 alias ..='cd ../'                           # Go back 1 directory level
