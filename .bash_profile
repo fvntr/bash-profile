@@ -1,3 +1,11 @@
+#  _               _                        __ _ _
+# | |__   __ _ ___| |__    _ __  _ __ ___  / _(_) | ___
+# | '_ \ / _` / __| '_ \  | '_ \| '__/ _ \| |_| | |/ _ \
+# | |_) | (_| \__ \ | | | | |_) | | | (_) |  _| | |  __/
+# |_.__/ \__,_|___/_| |_| | .__/|_|  \___/|_| |_|_|\___|
+#                         |_|
+
+#directories 
 alias prof="subl ~/.bash_profile"
 alias reprof=". ~/.bash_profile"
 alias dev="cd /Users/Home/dev"
@@ -10,6 +18,8 @@ alias blog='/Users/Home/dev/ACTIVE/fvntr.github.io'
 alias de="cd ~/Desktop"
 alias ds="cd ~/Documents"
 
+
+#navigation 
 alias cd..='cd ../'                         # Go back 1 directory level 
 alias ..='cd ../'                           # Go back 1 directory level
 alias ...='cd ../../'                       # Go back 2 directory levels
