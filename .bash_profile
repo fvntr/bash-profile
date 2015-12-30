@@ -6,18 +6,18 @@
 #                         |_|
 
 #directories 
-alias prof="subl ~/.bash_profile"
-alias reprof=". ~/.bash_profile"
-alias dev="cd /Users/Home/dev"
-alias toys="cd /Users/Home/dev/TGA/TOYPROBLEMS/Toy-Problems/problems"
-alias home="cd /Users/Home"
-alias sprints="cd /Users/Home/dev/TGA/SPRINTS"
-alias notes="cd /Users/Home/dev/TGA/NOTES"
+alias prof='subl ~/.bash_profile'
+alias reprof='. ~/.bash_profile'
+alias dev='cd /Users/Home/dev'
+alias toys='cd /Users/Home/dev/TGA/TOYPROBLEMS/Toy-Problems/problems'
+alias home='cd /Users/Home'
+alias sprints='cd /Users/Home/dev/TGA/SPRINTS'
+alias notes='cd /Users/Home/dev/TGA/NOTES'
 alias hpr='hub pull-request'
-alias blog='/Users/Home/dev/ACTIVE/fvntr.github.io'
-alias de="cd ~/Desktop"
-alias ds="cd ~/Documents"
-
+alias blog='cd /Users/Home/dev/ACTIVE/fvntr.github.io'
+alias desk='cd ~/Desktop'
+alias dcs='cd ~/Documents'
+alias opentoys='subl /Users/Home/dev/TGA/TOYPROBLEMS/Toy-Problems/problems'
 
 #navigation 
 alias cd..='cd ../'                         # Go back 1 directory level 
